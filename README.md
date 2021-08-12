@@ -1,4 +1,4 @@
-# vmware-workstation-license-key
+# vmware-workstation-pro-license-key
 
 ### vmware-workstation 15
 
